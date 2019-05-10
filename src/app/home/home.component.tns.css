@@ -1,0 +1,43 @@
+#Label1{ 
+    margin-top: 13%;
+    font-size: 25px;
+    font-weight: 400;
+    color: #252525;
+ }
+
+ #Label2{ 
+    margin-top: 10%;
+    font-size: 21px;
+    color: #252525;
+ }
+ #Label3{ 
+     margin-top: 2%;
+    width: 300dp;
+    font-size: 16px;
+    color: #909090;
+ }
+ #Label4{ 
+     margin-bottom: 10%;
+    width: 300dp;
+    font-size: 16px;
+    color: #909090;
+ }
+.Image{
+    position: relative;
+    margin-top: 10%;
+}
+.page {
+    align-items: center;
+    flex-direction: column;
+  }
+#Button{
+    position: relative;
+    margin-top: 5%;
+    width: 284.8dp;
+    height: 42.5dp;
+    border-radius: 3.4dp;
+    background-color: #3865de;
+}
+.ActionBar {
+    height: 0;
+  }

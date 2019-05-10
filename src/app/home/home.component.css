@@ -1,0 +1,15 @@
+/* Add mobile styles for the component here.  */
+.page {
+    align-items: center;
+    flex-direction: column;
+  }
+  Image {
+    margin-top: 10%;
+}
+.text-label { 
+  margin-top: 25; 
+  margin-bottom: 10; 
+  
+  color:#39ace7;; 
+  font: bold; 
+  } 
